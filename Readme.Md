@@ -11,4 +11,14 @@ Load balacing a server using Round robin
 
 ## Installation
 
-Describe how to install this project and any dependencies it has. Be sure to include any necessary commands.
+clone the repo 
+
+replace the servers with your server name 
+
+
+go get (to install the libraries)
+
+
+go run main.go (to run the server)
+
+
